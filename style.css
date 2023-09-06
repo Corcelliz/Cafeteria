@@ -19,7 +19,7 @@
 /* Topo da página */
 .topo {
     width: 100%;
-    height: 13%;
+    height: 14%;
     position: fixed;
     background-color: #604829;
     z-index: 1;
@@ -29,7 +29,7 @@
     width: 100px;
     position: relative;
     left: 10%;
-    bottom: 15%;
+    bottom: 14%;
 }
 
 .topo div {
